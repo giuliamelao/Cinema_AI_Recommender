@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Cinema AI Recommender 🤖🎞️
 
 ## Welcome to Cinema AI Recommender, a Machine Learning recommendation system exclusively tailored for film enthusiasts
@@ -26,4 +28,5 @@ The dataset used for the training was gathered on [Kaggle](https://www.kaggle.co
  - mean_squared_error
  - StandardScaler
  - DBSCAN
+
 
